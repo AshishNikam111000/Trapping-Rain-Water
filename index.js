@@ -99,9 +99,6 @@ function showOutput() {
         //filling colors to both tables
         fillColor(table1Fill, result[1], arr, m, n, true);
         fillColor(table2Fill, result[1], arr, m, n, false);
-
-        document.getElementById("div2").style.visibility = "visible";
-        document.getElementById("div3").style.visibility = "visible";
     }
 }
 
