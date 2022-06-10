@@ -1,0 +1,27 @@
+.InputArray {
+    width: auto;
+}
+
+.label1,
+.label2,
+.label3 {
+    font-size: x-large;
+}
+
+#givenInput,
+#output {
+    font-size: x-large;
+}
+
+table, tr, td {
+    border-collapse: separate;
+    border: none;
+}
+
+td{
+    border-radius: 5px;
+}
+
+.div2, .div3{
+    visibility: hidden;
+}
